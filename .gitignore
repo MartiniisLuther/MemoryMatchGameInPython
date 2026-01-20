@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# IntelliJ / PyCharm files
+.idea/
+*.iml
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
